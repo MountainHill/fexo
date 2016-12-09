@@ -1,6 +1,6 @@
 # Blog info
-blog_name: Forsigner
-slogan: Find the bug of the world
+blog_name: d10
+slogan: 用眼睛观察世界，用心灵感受世界，用智慧理解世界
 url: http://www.forsigner.com
 
 # Set avatar (Absolute url and relative url)
@@ -83,7 +83,7 @@ backtop:
 donation:
   show: true
   btn_text: 支持一下
-  tip: 扫一扫，支持forsigner
+  tip: 扫一扫，支持d10
   items:
     - type: 微信
       text: 微信扫一扫
