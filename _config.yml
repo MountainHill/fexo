@@ -1,7 +1,7 @@
 # Blog info
 blog_name: d10
 slogan: 用眼睛观察世界，用心灵感受世界，用智慧理解世界
-url: http://www.forsigner.com
+url: http://mountainhill.github.io
 
 # Set avatar (Absolute url and relative url)
 avatar: /images/avatar.jpg
@@ -20,10 +20,7 @@ home_nav:
     url: /project/
     target_blank: true #在新页面打开
   - name: Github
-    url: https://github.com/forsigner
-    target_blank: true
-  - name: Twitter
-    url: https://twitter.com/forsigner
+    url: https://github.com/MountainHill
     target_blank: true
 
 # config page nav
@@ -31,24 +28,24 @@ page_nav:
   - name: 博客
     url: /archives/
     target_blank: false # 不在新页面打开
-  - name: 分类
-    url: /category/
-    target_blank: false
-  - name: 标签
-    url: /tag/
-    target_blank: false
-  - name: 友链
-    url: /link/
-    target_blank: false
-  - name: 关于
-    url: /about/
-    target_blank: false
-  - name: RSS
-    url: /atom.xml
-    target_blank: true # 在新页面打开
-  - name: 搜索
-    url: /search/
-    target_blank: false # 在新页面打开
+#  - name: 分类
+#    url: /category/
+#    target_blank: false
+#  - name: 标签
+#    url: /tag/
+#    target_blank: false
+#  - name: 友链
+#    url: /link/
+#    target_blank: false
+#  - name: 关于
+#    url: /about/
+#    target_blank: false
+#  - name: RSS
+#    url: /atom.xml
+#    target_blank: true # 在新页面打开
+#  - name: 搜索
+#    url: /search/
+#    target_blank: false # 在新页面打开
 
 page_nav_style: CIRCLE  # CIRCLE|ROUND_RECT
 
